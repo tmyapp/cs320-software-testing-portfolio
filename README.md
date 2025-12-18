@@ -1,7 +1,5 @@
-# cs320-software-testing-portfolio
+software-testing-portfolio
 CS 320 portfolio showcasing software testing, automation, and quality assurance using Java and JUnit.
-
-CS 320 Module Eight Journal Reflection
 
 Through the projects in CS 320, I learned how important structured testing and thoughtful design are to creating functional and secure software. To ensure my code is functional and secure, I relied heavily on unit testing, input validation, and clear requirements. In Project One, creating unit tests for the Contact and ContactService classes helped verify that the program behaved correctly under both valid and invalid conditions. Writing tests for edge cases, such as invalid IDs or overly long input values, helped identify potential issues early and ensured the software met its constraints. This testing approach increased reliability and reduced the likelihood of defects making it into production.
 
